@@ -35,7 +35,7 @@ function Tips() {
             />
           </div>
           <div className="flex gap-4">
-            <label>How d you like the service?</label>
+            <label>How do you like the service?</label>
             <select
               name="tip1"
               value={billamount.tip1}
